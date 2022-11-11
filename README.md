@@ -9,3 +9,6 @@ nasm pong
 freelink pomg
 pong
 ```
+
+### Feito por
+Elias Pereira Junior e Maria Julia D. M. Nolasco da Universidade Federal do Espírito Santo
